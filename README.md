@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📰 Marathi News Analyzer
 
 ### मराठी बातमी विश्लेषक
@@ -34,30 +32,8 @@ The pipeline supports lightweight methods and optional pretrained transformer mo
 
 ## 🧠 How It Works
 
-```text
-Marathi News URL / Pasted Text / Local Text File
-                      |
-                      v
-        Article Extraction & Cleaning
-                      |
-                      v
-           Marathi Language Check
-                      |
-                      v
-       Keywords + Named Entities (NER)
-                      |
-                      v
-        News Category Classification
-                      |
-                      v
-           YAKE Keyword Refinement
-                      |
-                      v
-         Key Sentence Ranking (LexRank)
-                      |
-                      v
-       Summary + Interactive Graph + JSON
-```
+<img width="280" height="350" alt="image" src="https://github.com/user-attachments/assets/e760efa9-25e9-44c2-a169-29d36a262be8" />
+
 
 ### Core techniques
 
