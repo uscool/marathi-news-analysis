@@ -98,8 +98,8 @@ marathi_news_analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/uscool/marathi-news-analysis.git
+cd marathi-news-analysis
 ```
 
 Alternatively, extract the project ZIP and open a terminal inside `marathi_news_analyzer/`.
